@@ -357,13 +357,11 @@ export const botConfig = {
   // =========================
   welcome: {
       // Welcome text posted when a user joins.
-    // Placeholders: 
     defaultWelcomeMessage:
-      ":wave: Welcome to xev.gg! You've joined the cult. There's no leaving now. :smiling_imp: Head over to #rules and grab your roles.",
+      ":wave: Welcome to xev.gg! You've joined the cult. There's no leaving now. :smiling_imp:",
     // Goodbye text posted when a user leaves.
-    // Placeholders: 
     defaultGoodbyeMessage:
-      ":v: Someone has left the cult. Their loss. xev.gg goes on. :triumph:",
+      ":v: Someone has left the cult..their loss :triumph:",
     // Channel ID for welcome messages.
     defaultWelcomeChannel: null,
     // Channel ID for goodbye messages.
