@@ -356,7 +356,7 @@ export const botConfig = {
   // WELCOME / GOODBYE MESSAGES
   // =========================
   welcome: {
-    
+    // Message shown when posting.
     defaultWelcomeMessage:
       ":wave: Welcome to xev.gg! You've joined the cult. There's no leaving now. :smiling_imp: Head over to #rules and grab your roles.",
     // Goodbye template posted when a user leaves.
